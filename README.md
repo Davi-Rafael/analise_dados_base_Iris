@@ -7,7 +7,7 @@ Trata-se de uma análise da base iris com pandas, matplotlib e seaborn.
   
     python atividade_dados1.py
 
-Lembre de tirar o comentário do gráfico que você quer ver.
+Ao rodar, todos os 5 gráficos abrirão em sequência, feche o atual para ver o próximo.
 
 ## O que eu fiz:
 Explorei o uso de diversos tipos de gráficos diferentes. Usando o gráfico de barras pude ver a quantidade total, e os tipos de espécies que estava na base. Além disso, fiz um diagrama de caixas(boxplot) para comparação entre comprimento e largura entre as diferentes espécies,  E por fim, utilizei de um gráfico de dispersão(scatterplot) para verificar se havia algum padrão, e então utilizei a função corr() para calcular esse padrão. 
