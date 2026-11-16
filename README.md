@@ -3,8 +3,7 @@ Trata-se de uma análise da base iris com pandas, matplotlib e seaborn.
 
 ## Para rodar: 
   
-    pip install pandas scikit-learn matplotlib seaborn.
-  
+    pip install scikit-learn matplotlib seaborn
     python atividade_dados1.py
 
 Ao rodar, todos os 5 gráficos abrirão em sequência, feche o atual para ver o próximo.
