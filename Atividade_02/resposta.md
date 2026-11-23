@@ -4,7 +4,7 @@ O primeiro gráfico nos mostra a diferença entre o tamanho médio de cada vari�
 
 ### Gráfico:
 
-![](imagens/grafico1.png)
+![](imagens/grafico1_bar.png)
 
 # Segunda questão:
 
