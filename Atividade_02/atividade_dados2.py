@@ -1,5 +1,6 @@
 from sklearn.datasets import load_iris
 import seaborn as sns
+import numpy as np
 import matplotlib.pyplot as plt
 
 iris = load_iris(as_frame=True)
@@ -18,3 +19,12 @@ plt.ylabel("Média (cm)")
 plt.tight_layout()
 plt.show()
 
+# Gráfico Scatter para tentar observar uma relação
+sns.scatterplot(data=df_iris, x='sepal length (cm)', y='petal length (cm)', hue='species')
+sns.regplot(data=df_iris, x="sepal length (cm)", y="petal length (cm)", scatter=False, ci=None, color="black")
+plt.title('Comparação do comprimento de sépalas e pétalas')
+plt.legend(title='Espécies')
+plt.xlabel('Comprimento da sépala')
+plt.ylabel('Comprimento da pétala')
+plt.tight_layout()
+plt.show()

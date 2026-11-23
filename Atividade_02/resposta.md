@@ -5,3 +5,13 @@ O primeiro gráfico nos mostra a diferença entre o tamanho médio de cada vari�
 ### Gráfico:
 
 ![](imagens/grafico1.png)
+
+# Segunda questão:
+
+O segundo gráfico nos mostra que no geral, existe uma tendência a crescer o comprimento da pétala junto com o comprimento da sépala. As setosas, no entanto, não aparentam seguir essa tendência de crescimento. 
+
+### Gráfico:
+
+![](imagens/grafico2_scatter.png)
+
+# Terceira questão:

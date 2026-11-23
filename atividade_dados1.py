@@ -34,7 +34,7 @@ plt.tight_layout()
 plt.show()
 
 # Gráfico boxplot para comparar os comprimentos
-sns.boxplot(data=df_iris, y="petal length (cm)", x='species')
+sns.boxplot(data=df_iris, y="petal width (cm)", x='species')
 plt.title("Comprimento das pétalas")
 plt.tight_layout()
 plt.show()
