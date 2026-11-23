@@ -28,3 +28,11 @@ plt.xlabel('Comprimento da sépala')
 plt.ylabel('Comprimento da pétala')
 plt.tight_layout()
 plt.show()
+
+# Gráfico boxplot para comparar as larguras
+sns.boxplot(data=df_iris, y="petal width (cm)", x='species', medianprops={"color": '#FFA500', 'linewidth': 1.5}, flierprops={"markerfacecolor": '#FFA500'})
+plt.title("Comparação da largura das pétalas")
+plt.ylabel('Largura das pétalas')
+plt.xlabel('Espécies')
+plt.tight_layout()
+plt.show()

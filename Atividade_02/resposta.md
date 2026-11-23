@@ -15,3 +15,9 @@ O segundo gráfico nos mostra que no geral, existe uma tendência a crescer o co
 ![](imagens/grafico2_scatter.png)
 
 # Terceira questão:
+
+Gráfico de caixas, com a mediana e outliers destacados em laranja. Mostra o quanto as setosas se destoam das outras. É possível ver dois outliers nas setosas, e que ela tem uma mediana bem baixa comparada com as medianas dos outros para si mesmos. 
+
+### Gráfico:
+
+![](imagens/grafico3_box.png)
